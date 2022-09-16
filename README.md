@@ -17,4 +17,4 @@ Be mindful of special characters that can ruin paths or are not ascii. These are
 This will be updated later.
 
 ## FLAC to ALAC
-Use foobar2000. I've been getting crackling noise from how my script does it.
+Use foobar2000: https://www.foobar2000.org/download 
